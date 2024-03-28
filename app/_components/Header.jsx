@@ -12,7 +12,7 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import { useEffect, useState } from "react";
-import getCategory from "../_utils/GlobalApi";
+import { getCategory } from "../_utils/GlobalApi";
 
 function Header() {
   const [categoryList, setCategoryList] = useState([]);
