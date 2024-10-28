@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Grocery-app 🛒 <br><br>
+Um mercado online onde os clientes podem fazer suas compras de forma prática e rápida. <br><br>
 
-## Getting Started
+## 📋 Descrição <br><br>
 
-First, run the development server:
+O Grocery-app é uma aplicação web desenvolvida para oferecer uma experiência de compras online aos usuários. Com uma interface intuitiva e fácil de navegar, os clientes podem visualizar produtos, adicionar itens ao carrinho e concluir suas compras. O projeto utiliza Next.js para otimização de desempenho e SEO, enquanto o Tailwind CSS e o ShadCN são utilizados para estilização moderna e responsiva. O banco de dados é gerenciado com MySQL e Strapi, garantindo uma estrutura robusta para armazenar informações de produtos e pedidos. <br><br> 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠️ Tecnologias Utilizadas <br><br>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Next.js
+- Tailwind CSS
+- ShadCN
+- MySQL
+- Strapi <br><br>
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+  
+## 💡 Conceitos Aprendidos e Aplicados <br><br> 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Desenvolvimento de aplicações web escaláveis com Next.js
+- Estilização de interfaces responsivas utilizando Tailwind CSS e ShadCN
+- Gerenciamento de banco de dados com MySQL para armazenamento de dados
+- Implementação de uma API com Strapi para gerenciar e fornecer dados para a aplicação
+- Criação de uma experiência de usuário amigável para facilitar o processo de compra <br><br>
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 Funcionalidades <br><br>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Navegação intuitiva para visualizar e pesquisar produtos
+- Adição de itens ao carrinho de compras
+- Opção de filtrar produtos por categorias
+- Finalização de compras com uma interface simples <br><br>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## 🖥️ Como Executar o Projeto <br><br> 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Faça o download ou clone o repositório:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+``` git clone https://github.com/seu-usuario/grocery-app.git ``` <br><br>
+Navegue até o diretório do projeto:
+
+``` cd grocery-app ``` <br><br>
+Instale as dependências:
+
+
+``` npm install ``` <br><br>
+Inicie a aplicação:
+
+
+``` npm run dev ``` <br><br>
+Abra o navegador e acesse:
+
+``` http://localhost:3000 ``` <br><br>
